@@ -21,11 +21,11 @@
 所以 **AI 应用岗** 是现在各大厂正在加紧扩招的岗位之一，包括 Agent 工程师、大模型应用工程师、AI 后台工程师等等，腾讯、阿里、字节、美团、京东这些大厂也开始下场抢人。
 
 <div align="center">
-  <img src="./img/招聘岗位.PNG" alt="美团招聘岗位" width="45%">
+  <img src="./img/招聘岗位.PNG" alt="美团招聘岗位" width="60%">
 </div>
 
 <div align="center">
-  <img src="./img/招聘岗位2.PNG" alt="字节招聘岗位" width="45%">
+  <img src="./img/招聘岗位2.PNG" alt="字节招聘岗位" width="60%">
 </div>
 
 虽说抢人，但是抢的是 **优秀的人**，所以我们要在机会来临之前准备好，这样才能变成那个被抢的人。  
