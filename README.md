@@ -21,11 +21,11 @@
 所以 **AI 应用岗** 是现在各大厂正在加紧扩招的岗位之一，包括 Agent 工程师、大模型应用工程师、AI 后台工程师等等，腾讯、阿里、字节、美团、京东这些大厂也开始下场抢人。
 
 <div align="center">
-  <img src="./img/招聘岗位.PNG" alt="美团招聘岗位" width="30%">
+  <img src="./img/招聘岗位.PNG" alt="美团招聘岗位" width="45%">
 </div>
 
 <div align="center">
-  <img src="./img/招聘岗位2.PNG" alt="字节招聘岗位" width="30%">
+  <img src="./img/招聘岗位2.PNG" alt="字节招聘岗位" width="45%">
 </div>
 
 虽说抢人，但是抢的是 **优秀的人**，所以我们要在机会来临之前准备好，这样才能变成那个被抢的人。  
@@ -47,7 +47,7 @@
 因为最开始是用语雀写博客，所以对语雀非常了解，它有一个最大的弊端就是 **每月文档创建上限 100 篇**。
 
 <div align="center">
-  <img src="./img/yuque.PNG" alt="语雀" width="30%">
+  <img src="./img/yuque.PNG" alt="语雀" width="45%">
 </div>
 
 我的目标是把每个知识点都创建一个文档，这样学习起来不用老想“怎么还有这么多”，读一会就读完了，很有成就感，能促进大家学习，所以语雀就 Pass 了。  
@@ -55,7 +55,7 @@
 接下来我就又去用了 **Notion**。Notion 可以说是生态最完善的一个笔记软件了，但是我感觉用起来学习成本稍微有点高。  
 
 <div align="center">
-  <img src="./img/notion.PNG" alt="Notion" width="30%">
+  <img src="./img/notion.PNG" alt="Notion" width="45%">
 </div>
 
 最后我选择了 **飞书**。  
@@ -66,13 +66,13 @@
 在使用的过程中，我发现飞书还有很多小优点，比如鼠标放在链接上就可以 **预览内容**。
 
 <div align="center">
-  <img src="./img/飞书1.png" alt="飞书预览功能" width="30%">
+  <img src="./img/飞书1.png" alt="飞书预览功能" width="45%">
 </div>
 
 同时对一些专业名词点击就会有 **解释**，让我们的学习更加便捷，不用见到一个不知道的名词再去问 GPT 了。
 
 <div align="center">
-  <img src="./img/飞书2.png" alt="飞书术语解释" width="30%">
+  <img src="./img/飞书2.png" alt="飞书术语解释" width="45%">
 </div>
 
 
