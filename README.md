@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/aicoting/AIHub/stargazers">
     <img src="https://img.shields.io/github/stars/aicoting/AIHub?color=F8B195&logo=github&style=for-the-badge" alt="Github stars">
   </a>
@@ -20,7 +20,7 @@
   <a href="./LICENSE">
     <img src="https://img.shields.io/github/license/aicoting/AIHub?color=C06C84&style=for-the-badge" alt="License">
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.zhihu.com/people/wu-wang-wo-24-38"><img src="https://img.shields.io/badge/ZhiHu-知乎-8c36db" /></a>&emsp;
@@ -34,7 +34,10 @@
   <a href="https://wakatime.com/@zhangting-hit"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </p>
 
-![image](./img/MLHub.png)
+
+<div align="center">
+  <img src="./img/MLHub.png" width="50%">
+</div>
 
 > 🚀 这里是一个系统化的机器学习知识库 **（包含示例代码）**  
 > 记录我的学习与求职历程，也希望能帮助到更多正在学习或者准备 AI 岗位的同学。
@@ -141,7 +144,7 @@
 如果大家有需要，扫码关注公众号，回复**MLHub**即可
 
 <div align="center">
-  <img src="./img/公众号二维码.jpg" alt="Notion" width="45%">
+  <img src="./img/公众号二维码.jpg" alt="Notion" width="30%">
 </div>
 
 
