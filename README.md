@@ -137,9 +137,7 @@
 </div>
 
 下面是飞书的知识库目录：
-<div align="center">
-  <img src="./img/知识库目录.png" alt="知识库目录" width="800">
-</div>
+<img src="./img/知识库目录.png" alt="Notion" width="50%">
 
 如果大家有需要，扫码关注公众号，回复**MLHub**即可
 
